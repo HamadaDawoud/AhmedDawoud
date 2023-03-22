@@ -11,6 +11,8 @@ I hold a bachelor's degree of Science in Geoscience from Alexandria University. 
 
 <h3><p><a href="https://www.github.com/HamadaDawoud/Cust_Churn_PBI">Analysing Customer Churn for Telecom Company Using PowerBI</a></p></h3>
 <br/>
+<h3><p><a href="https://github.com/HamadaDawoud/HR_Analytics">HR Data Analysis Using PowerBI</a></p></h3>
+<br/>
 
 <h2> 🤳 Connect with me:</h2>
 
