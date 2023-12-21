@@ -13,7 +13,8 @@ I hold a bachelor's degree of Science in Geoscience from Alexandria University. 
 <br/>
 <h3><p><a href="https://github.com/HamadaDawoud/HR_Analytics">HR Data Analysis Using PowerBI</a></p></h3>
 <br/>
-
+<h3><p><a href="https://github.com/HamadaDawoud/Energy-Statistics/blob/main/World%2BEnergy%2BStatistics.ipynb">Renewable Energy Statistics</a></p></h3>
+<br/>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AhmedDawoud | OutLook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][outlook]
